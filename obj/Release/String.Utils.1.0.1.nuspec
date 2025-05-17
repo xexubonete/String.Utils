@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>String.Utils</id>
+    <version>1.0.1</version>
+    <authors>String.Utils</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/xexu/dev/String.Utils/bin/Release/net8.0/String.Utils.dll" target="lib/net8.0/String.Utils.dll" />
+  </files>
+</package>

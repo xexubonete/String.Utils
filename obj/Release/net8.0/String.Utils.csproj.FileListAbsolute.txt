@@ -1,0 +1,11 @@
+/Users/xexu/dev/String.Utils/bin/Release/net8.0/String.Utils.deps.json
+/Users/xexu/dev/String.Utils/bin/Release/net8.0/String.Utils.dll
+/Users/xexu/dev/String.Utils/bin/Release/net8.0/String.Utils.pdb
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.AssemblyInfoInputs.cache
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.AssemblyInfo.cs
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.csproj.CoreCompileInputs.cache
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.dll
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/refint/String.Utils.dll
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/String.Utils.pdb
+/Users/xexu/dev/String.Utils/obj/Release/net8.0/ref/String.Utils.dll
